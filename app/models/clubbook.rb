@@ -1,0 +1,2 @@
+class Clubbook < ApplicationRecord
+end
